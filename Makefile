@@ -1,7 +1,7 @@
 #CC := gcc
 CC := arm-none-linux-gnueabi-gcc
 DIRS_NAME := src
-BIN_DIR := bin but
+BIN_DIR := bin but no
 
 AFLAGS := -Wall -c -g -I ./include/
 LDFLAGS := -lpthread
